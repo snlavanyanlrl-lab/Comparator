@@ -1,0 +1,8 @@
+After simulation, the waveform should show:
+
+A = B → A_equal = 1
+A > B → A_greater = 1
+A < B → A_less = 1
+At any time, only one output is HIGH, verifying correct comparator behavior.
+
+To generate the waveform:
